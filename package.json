@@ -19,3 +19,14 @@
     "vite": "^4.4.9"
   }
 }
+{
+  "name": "service-plus",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    ...
+  }
+}
