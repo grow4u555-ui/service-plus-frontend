@@ -2,9 +2,9 @@ import React from "react";
 
 function About() {
   return (
-    <div>
+    <div style={{ padding: "20px" }}>
       <h1>About Us</h1>
-      <p>We provide quality services to make your life easier.</p>
+      <p>We provide top services for your needs.</p>
     </div>
   );
 }
