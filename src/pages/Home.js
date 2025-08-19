@@ -2,9 +2,9 @@ import React from "react";
 
 function Home() {
   return (
-    <div>
+    <div style={{ padding: "20px" }}>
       <h1>Welcome to Service Plus</h1>
-      <p>This is the home page of your web app.</p>
+      <p>This is the Home page of your application.</p>
     </div>
   );
 }
